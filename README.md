@@ -1,9 +1,9 @@
 cc65sha256
 ==========
 
-SHA256 command line utility for 6502 basec computers.
+SHA256 command line utility for 6502 based computers.
 
-Testing to work with Atari 8bit (800XL / 130XE) using SpartaDos and SpartaDOS X (SDX). 
+Tested to work with Atari 8bit (800XL / 130XE) using SpartaDos and SpartaDOS X (SDX). 
 Not tested but should work with MyDOS.
 Not tested but should work with other 6502 based computers like:
   VIC20
