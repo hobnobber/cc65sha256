@@ -28,3 +28,5 @@ Options:
 Program returns 0 if succesful and 1 if failed.
 
 SHA256 "c" functions original written by Christophe Devine and modified by Mark Hoblit to compile under cc65.
+
+Bitcoin donations: 17uKHtsQegbvFpHwMKySVS558m6ZzaVLLk
